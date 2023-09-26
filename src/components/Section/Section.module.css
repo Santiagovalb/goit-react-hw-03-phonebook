@@ -1,0 +1,21 @@
+@import '../../aditional/colors.css';
+
+.title {
+  font-size: 30px;
+  text-align: center;
+
+  /* font-family: 'Orbitron', sans-serif; */
+  font-family: 'QuickSand', sans-serif;
+
+  margin: 20px 0 0 0;
+  /* margin: 0 auto; */
+
+  color: var(--title);
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  gap: 20px;
+}

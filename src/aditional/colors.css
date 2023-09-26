@@ -1,0 +1,53 @@
+.light {
+  --background-color: #d4d4d4;
+  --card-color: #dbdbdb;
+  --stats-color: #e7ecf2;
+  --button-color: #2e2e77;
+  --button-hover: #494966;
+  --item: #ced2e0a1;
+
+  --text-color: #000000;
+  --text-color-50: #3f3f3f;
+  --text-button: #c9daff;
+
+  --title: #333333;
+
+  --white-color: #ffffff;
+
+  --shadow-color: #858585;
+  --shadow-card: #4d4d4d98;
+
+  --arrow: #2a355a;
+  --arrow-hover: #00000091;
+
+  --state-1: #7e5c00;
+  --state-1-hover: #7e5c00;
+  --state-2: #233e88;
+  --state-3: #2e2e77;
+}
+.dark {
+  --background-color: #2c2c2c;
+  --card-color: #363636;
+  --stats-color: #4d4d4d;
+  --button-color: #4c4c4d;
+  --button-hover: #474a4e98;
+  --item: #3f3f3f;
+
+  --text-button: #83bdff;
+  --text-color: #f1f5ffec;
+  --text-color-50: #9d9ea1;
+
+  --white-color: #ffffff;
+
+  --shadow-color: #000000;
+  --shadow-card: #131313;
+  --title: #7099a5;
+
+  --arrow: #ffd1d1;
+  --arrow-hover: #ffd1d1be;
+
+  --state-1: #f0c85ac7;
+  --state-1-hover: #f0c85ac7;
+  --state-2: #b7b9bdc9;
+  --state-3: #d2deffd7;
+}

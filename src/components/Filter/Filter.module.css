@@ -1,0 +1,32 @@
+@import '../../aditional/colors.css';
+
+.filter {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap: 10px;
+
+  flex-wrap: nowrap;
+
+  color: var(--text-color);
+}
+.filtercont {
+  width: 100%;
+}
+
+p {
+  width: auto;
+}
+
+.inputFilter:focus-visible {
+  border-left: 0.5em solid var(--state-3);
+  border-radius: 5px;
+  transition: all 200ms ease;
+  padding: 0 6.48px;
+}
+.inputFilter:hover {
+  border: 1px solid var(--state-3);
+  transition: all 150ms ease;
+  cursor: text;
+  padding: 0 10px;
+}
